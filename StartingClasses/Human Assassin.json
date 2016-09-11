@@ -1,82 +1,14 @@
-[Steam]
-
-# Application ID, must be set
-# http://store.steampowered.com/app/%AppId%/
-AppId = 381570
-Key = XyX6sQ75n8oZAvY5HTlPfg==
-
-# Steam User ID
-# This option will set specific steam account ID associated with a launched game
-# For example you can use this value to make compatible saves made by other emus:
-# RELOADED steam ID = 4919 (1337)
-# CODEX steam ID = 1638 (666)
-# SteamUserID = 1638
-
-[StatsAndAchievements]
-
-# Enable wrapper stats (this will disable native steam stats code / currently works only with 011 version of ISteamUserStats interface)
-EnableStats = false
-
-# Enable wrapper achievements (this will disable native steam achievements code / currently works only with 011 version of ISteamUserStats interface)
-EnableAchievements = false
-
-# Unlock only achievements that are listed in configuration file
-UnlockListedAchievements = false
-
-# Listed achievements (see example below):
-
-#ACH_LEVEL_COMPLETED = true
-
-# Unlock all game achievements (this will only work when "EnableAchievements" value is set to "true". This option will override "UnlockListedAchievements")
-UnlockAllAchievements = false
-
-[DLC]
-
-# Base DLC AppID for enumeration, if not set and AppID is set it uses AppID
-DLCEnumBase = 0
-
-# number of DLCs enumerated
-DLCEnumCount = 0
-
-# By default DLC active or not
-# Default value will override all other values, so setting this to true will enable all DLCs!
-Default = true
-
-# List of all DLCs the app should own. Index starts from 0
-# <index> = <appid>
-
-[Subscriptions]
-
-# By default subscribed or not
-# Default value will override all other values, so setting this to true will enable all Subscriptions!
-Default = true
-
-# Manual List
-# <appid> = <true/false>
-
-[Settings]
-
-# Change the language for games that uses steam_api.api/steamclient.dll to decide it.
-# Can be not set, then ValveAPI.dll/steamclient.dll will decide (including Steam)
-Language = english
-
-# Set the specific location of save games
-# 0 = Default REVOLT wrapper saves location (/saves)
-# 1 = 3DMGAME (/3DMGAME/3DMGAME/storage)
-# 2 = ALI213 (/Profile/saves)
-# 3 = RELOADED (%SystemDrive%/ProgramData/Steam/RLD!/%AppId%/storage)
-# 4 = CODEX (%SystemDrive%/AppData/Roaming/Steam/CODEX/%AppId%/remote)
-# 5 = FLT (%SystemDrive%/AppData/Local/EMU/Steam/%AppId%/remote)
-# 6 = SKIDROW (%SystemDrive%/AppData/Local/SKIDROW/%AppId%/storage)
-# 7 = CPY (%SystemDrive%/Users/%UserName%/Documents/CPY_SAVES/%AppId%)
-SaveType = 0
-
-# Disable save file handling.
-EnableSave = true
-
-# Log to file name, not set to disable logging
-LogFile = true
-LogFileName = REVOLT.log
-
-# Enable loging to console.
-LogConsole = false
+{
+		"className": "Human Assassin",
+		"oneHandedWeapon": "Bandit's Knife",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Short bow",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Bandit's Knife",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 3,
+		"twoHandedBonus": 0,
+		"rangedBonus" : 3,
+		"magicalBonus" : 2
+}
