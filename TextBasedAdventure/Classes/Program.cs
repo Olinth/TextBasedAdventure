@@ -47,6 +47,7 @@ namespace TextBasedAdventure
 
             do
             {
+<<<<<<< HEAD
                 try
                 {
                     Console.Write("Please choose a name: ");
@@ -60,6 +61,15 @@ namespace TextBasedAdventure
                 catch
                 {
                     Console.WriteLine("That was not a valid name!");
+=======
+                Console.WriteLine("Male/Female");
+                Console.Write("Please choose a gender: ");
+                player.gender = Console.ReadLine().ToUpper();
+
+                if (player.gender == "MALE" || player.gender == "FEMALE")
+                {
+                    main.genderCheck = true;
+>>>>>>> origin/George
                 }
             } while (nameCheck == false);
         }
@@ -87,8 +97,12 @@ namespace TextBasedAdventure
                         Console.WriteLine("ERROR! Please try again.");
                         break;
                 }
+<<<<<<< HEAD
             } while (GenderCheck == false);
 
+=======
+            } while (main.genderCheck == false);
+>>>>>>> origin/George
             Console.Clear();
         }
 
