@@ -12,7 +12,6 @@ namespace TextBasedAdventure
         public int magicalAttack { get; set; }
         public int magicalDefence { get; set; }
         public string name { get; set; } 
-        public GenderType gender { get; set; }
         public string race { get; set; }
         public string oneHandedWeapon { get; set; }
         public string twoHandedWeapon { get; set; }
@@ -24,6 +23,7 @@ namespace TextBasedAdventure
         public string className { get; set; }
         public string primaryWeapon { get; set; }
         public string primaryShield { get; set; }
+        public GenderType gender { get; set; }
 
         public enum GenderType
         {
