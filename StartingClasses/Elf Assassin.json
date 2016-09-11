@@ -1,0 +1,14 @@
+{
+		"className": "Elf Assassin",
+		"oneHandedWeapon": "Bandit's Knife",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Short bow",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Bandit's Knife",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 3,
+		"twoHandedBonus": 0,
+		"rangedBonus" : 3,
+		"magicalBonus" : 2
+}

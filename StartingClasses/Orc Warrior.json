@@ -1,0 +1,14 @@
+{
+		"className": "Orc Warrior",
+		"oneHandedWeapon": "Nothing",
+		"twoHandedWeapon": "Battle Axe",
+		"shield": "Nothing",
+		"rangedWeapon": "Nothing",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Battle Axe",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 4,
+		"twoHandedBonus": 4,
+		"rangedBonus" : 0,
+		"magicalBonus" : 0
+}

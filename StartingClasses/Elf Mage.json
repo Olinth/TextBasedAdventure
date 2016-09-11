@@ -1,0 +1,14 @@
+{
+		"className": "Elf Mage",
+		"oneHandedWeapon": "Mail Breaker",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Nothing",
+		"magicalWeapon": "Sorcerer's Staff",
+		"defaultWeapon": "Sorcerer's Staff",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 2,
+		"twoHandedBonus": 0,
+		"rangedBonus" : 3,
+		"magicalBonus" : 3
+}

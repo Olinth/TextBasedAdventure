@@ -1,0 +1,7 @@
+{
+		"name": "Orc",
+		"oneHandedBonus": 2,
+		"twoHandedBonus": 2,
+		"rangedBonus" : 0,
+		"magicalBonus" : 0
+}

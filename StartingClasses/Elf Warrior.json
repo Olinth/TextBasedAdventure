@@ -1,0 +1,14 @@
+{
+		"className": "Elf Warrior",
+		"oneHandedWeapon": "Broadsword",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Knight Shield",
+		"rangedWeapon": "Nothing",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Broadsword",
+		"defaultShield": "Kite Shield",
+		"oneHandedBonus": 3,
+		"twoHandedBonus": 2,
+		"rangedBonus" : 2,
+		"magicalBonus" : 1
+}

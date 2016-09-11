@@ -1,0 +1,14 @@
+{
+		"className": "Orc Assassin",
+		"oneHandedWeapon": "Claw",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Black Bow of Pharis",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Claw",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 4,
+		"twoHandedBonus": 2,
+		"rangedBonus" : 1,
+		"magicalBonus" : 1
+}

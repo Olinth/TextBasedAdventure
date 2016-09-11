@@ -1,0 +1,14 @@
+{
+		"className": "Dwarf Hunter",
+		"oneHandedWeapon": "Dagger",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Heavy Crossbow",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Light Crossbow",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 2,
+		"twoHandedBonus": 3,
+		"rangedBonus" : 3,
+		"magicalBonus" : 0
+}

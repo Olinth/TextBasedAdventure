@@ -1,0 +1,14 @@
+{
+		"className": "Dwarf Warrior",
+		"oneHandedWeapon": "Nothing",
+		"twoHandedWeapon": "Battle Axe",
+		"shield": "Nothing",
+		"rangedWeapon": "Nothing",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Battle Axe",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 3,
+		"twoHandedBonus": 4,
+		"rangedBonus" : 1,
+		"magicalBonus" : 0
+}

@@ -1,0 +1,14 @@
+{
+		"className": "Orc Hunter",
+		"oneHandedWeapon": "Dagger",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Heavy Crossbow",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Light Crossbow",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 3,
+		"twoHandedBonus": 2,
+		"rangedBonus" : 2,
+		"magicalBonus" : 0
+}

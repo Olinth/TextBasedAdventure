@@ -1,0 +1,7 @@
+{
+		"name": "Human",
+		"oneHandedBonus": 1,
+		"twoHandedBonus": 1,
+		"rangedBonus" : 1,
+		"magicalBonus" : 1
+}

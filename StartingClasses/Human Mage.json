@@ -1,0 +1,14 @@
+{
+		"className": "Human Mage",
+		"oneHandedWeapon": "Mail Breaker",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Nothing",
+		"magicalWeapon": "Sorcerer's Staff",
+		"defaultWeapon": "Sorcerer's Staff",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 2,
+		"twoHandedBonus": 1,
+		"rangedBonus" : 2,
+		"magicalBonus" : 3
+}

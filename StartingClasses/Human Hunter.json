@@ -1,0 +1,14 @@
+{
+		"className": "Human Hunter",
+		"oneHandedWeapon": "Dagger",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Nothing",
+		"rangedWeapon": "Composite Bow",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Composite Bow",
+		"defaultShield": "Nothing",
+		"oneHandedBonus": 2,
+		"twoHandedBonus": 2,
+		"rangedBonus" : 3,
+		"magicalBonus" : 1
+}

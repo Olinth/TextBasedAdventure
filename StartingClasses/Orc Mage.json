@@ -1,0 +1,14 @@
+{
+		"className": "Orc Mage",
+		"oneHandedWeapon": "Nothing",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Iron Round Shield",
+		"rangedWeapon": "Nothing",
+		"magicalWeapon": "Talisman",
+		"defaultWeapon": "Talisman",
+		"defaultShield": "Iron Round Shield",
+		"oneHandedBonus": 3,
+		"twoHandedBonus": 2,
+		"rangedBonus" : 1,
+		"magicalBonus" : 2
+}

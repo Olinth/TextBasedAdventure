@@ -1,0 +1,7 @@
+{
+		"name": "Elf",
+		"oneHandedBonus": 1,
+		"twoHandedBonus": 0,
+		"rangedBonus" : 2,
+		"magicalBonus" : 1
+}

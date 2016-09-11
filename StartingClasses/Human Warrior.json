@@ -1,0 +1,14 @@
+{
+		"className": "Human Warrior",
+		"oneHandedWeapon": "Broadsword",
+		"twoHandedWeapon": "Nothing",
+		"shield": "Kite Shield",
+		"rangedWeapon": "Nothing",
+		"magicalWeapon": "Nothing",
+		"defaultWeapon": "Broadsword",
+		"defaultShield": "Kite Shield",
+		"oneHandedBonus": 3,
+		"twoHandedBonus": 3,
+		"rangedBonus" : 1,
+		"magicalBonus" : 1
+}
