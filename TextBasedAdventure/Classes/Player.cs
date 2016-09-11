@@ -12,7 +12,6 @@ namespace TextBasedAdventure
         public int MagicalAttack { get; set; }
         public int MagicalDefence { get; set; }
         public string Name { get; set; }
-
         public GenderType Gender { get; set; }
         public string Race { get; set; }
         public string OneHandedWeapon { get; set; }
