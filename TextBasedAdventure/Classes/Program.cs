@@ -13,17 +13,10 @@ namespace TextBasedAdventure
         //---------
 
         //Strings
-        private string PlayerDescription;
-        private string Loadout;
         public string playerDescription { get; set; }
         public string loadout { get; set; }
 
         //Boolean
-        private bool NameCheck = false;
-        private bool GenderCheck = false;
-        private bool RaceCheck = false;
-        private bool ClassCheck = false;
-
         public bool nameCheck { get; set; }
         public bool genderCheck { get; set; }
         public bool raceCheck { get; set; }
