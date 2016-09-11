@@ -29,6 +29,7 @@ namespace TextBasedAdventure
         {
             Male, Female
         }
+
         public Player()
         {
             //CONSTRUCTOR IGNORE!

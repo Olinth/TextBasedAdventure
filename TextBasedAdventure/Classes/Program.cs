@@ -47,17 +47,12 @@ namespace TextBasedAdventure
             //Male or Female
             do
             {
-                Console.WriteLine("Male [1] / Female [2]");
+                Console.WriteLine("Male/Female");
                 Console.Write("Please choose a gender: ");
-                string gender = Console.ReadLine();
-                if (gender == "1")
+                player.gender = Console.ReadLine().ToUpper();
+
+                if (player.gender == "MALE" || player.gender == "FEMALE")
                 {
-                    player.gender = Player.GenderType.Male;
-                    main.genderCheck = true;
-                }
-                else if (gender == "2")
-                {
-                    player.gender = Player.GenderType.Female;
                     main.genderCheck = true;
                 }
                 else
@@ -66,7 +61,6 @@ namespace TextBasedAdventure
                     Console.WriteLine("ERROR! Please try again.");
                 }
             } while (main.genderCheck == false);
-
             Console.Clear();
 
             //Race creation
