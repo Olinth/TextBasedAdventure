@@ -2,19 +2,6 @@
 {
     class ClassType
     {
-        private string ClassName;
-        private string OneHandedWeapon;
-        private string TwoHandedWeapon;
-        private string Shield;
-        private string RangedWeapon;
-        private string MagicalWeapon;
-        private string DefaultWeapon;
-        private string DefaultShield;
-        private int OneHandedBonus;
-        private int TwoHandedBonus;
-        private int RangedBonus;
-        private int MagicalBonus;
-
         public string className { get; set; }
         public string oneHandedWeapon { get; set; }
         public string twoHandedWeapon { get; set; }
